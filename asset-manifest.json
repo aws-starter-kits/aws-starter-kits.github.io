@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.be858bbc.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.892cef35.js",
+    "static/js/2.6f4152ee.chunk.js": "/static/js/2.6f4152ee.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.e5ed7b5095e3ad2aaa12289cebfe18ea.js": "/precache-manifest.e5ed7b5095e3ad2aaa12289cebfe18ea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Auth0.c1d58eee.svg": "/static/media/Auth0.c1d58eee.svg",
+    "static/media/CloudFront.397c0c8c.svg": "/static/media/CloudFront.397c0c8c.svg",
+    "static/media/DynamoDB.627bf9d0.svg": "/static/media/DynamoDB.627bf9d0.svg",
+    "static/media/GitHub.7bc92a1c.svg": "/static/media/GitHub.7bc92a1c.svg",
+    "static/media/GitLab.48e92580.svg": "/static/media/GitLab.48e92580.svg",
+    "static/media/JavaScript.e6d78b34.svg": "/static/media/JavaScript.e6d78b34.svg",
+    "static/media/Jenkins.87cbb2d6.svg": "/static/media/Jenkins.87cbb2d6.svg",
+    "static/media/Jest.5c0ba68e.svg": "/static/media/Jest.5c0ba68e.svg",
+    "static/media/PostgreSQL.042dc6d2.svg": "/static/media/PostgreSQL.042dc6d2.svg",
+    "static/media/Python.2d785ff2.svg": "/static/media/Python.2d785ff2.svg",
+    "static/media/React.9ce3e747.svg": "/static/media/React.9ce3e747.svg",
+    "static/media/S3.4bcc82ee.svg": "/static/media/S3.4bcc82ee.svg",
+    "static/media/Serverless.bf8cb4d2.svg": "/static/media/Serverless.bf8cb4d2.svg",
+    "static/media/Stripe.e2799834.svg": "/static/media/Stripe.e2799834.svg",
+    "static/media/Terraform.ae64e49e.svg": "/static/media/Terraform.ae64e49e.svg",
+    "static/media/TypeScript.ea68d7b5.svg": "/static/media/TypeScript.ea68d7b5.svg",
+    "static/media/Vue.c58bfac4.svg": "/static/media/Vue.c58bfac4.svg"
+  }
+}
